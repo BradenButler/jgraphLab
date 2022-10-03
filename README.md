@@ -7,7 +7,7 @@ My program is an implementation of the example on the lab writeup, "Will this he
 Files:
 
 - golfgraph.cpp
-  This is the main program that generates the jgraph file and runs the
+  This is the main program that generates the jgraph file "jtest.jgr" and runs the
   Jgraph program to create the graph as a .png file called "golf_stats.jpg".
   
 - golfer.eps
