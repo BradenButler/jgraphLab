@@ -11,12 +11,21 @@ using namespace std;
 class Golfer {
     public:
     string name;
-    double OTT=-999;     //Off-the-tee
-    double APG=-999;     //Approach-the-green
-    double ARG=-999;     //Around-the-green
-    double PUT=-999;     //Putting
-    double total=0;
-    int rank=0;       //order
+    double OTT;     //Off-the-tee
+    double APG;     //Approach-the-green
+    double ARG;     //Around-the-green
+    double PUT;     //Putting
+    double total;
+    int rank;       //order
+
+    Golfer() {
+        OTT=-999;
+        APG=-999;
+        ARG=-999;
+        PUT=-999;
+        total=0;
+        rank=0;
+    }
 };
 
 int main(int argc, char **argv) {
@@ -78,7 +87,7 @@ int main(int argc, char **argv) {
             g->name = name;
             g->OTT = value;
             g->total+=value;
-            Golfers.insert({name, g});
+            Golfers.insert(std::pair<string, Golfer*>(name, g));
             //cout << name << endl;
 //golfer is here, add the data.
         } else {
@@ -93,7 +102,7 @@ int main(int argc, char **argv) {
     }
 
     for(it=Golfers.begin();it!=Golfers.end();it++) {
-        SortGolfers.insert({it->second->total, it->second});
+        SortGolfers.insert(std::pair<double, Golfer*>(it->second->total, it->second));
     }
 
     fclose(fp);
@@ -204,7 +213,8 @@ int main(int argc, char **argv) {
 
     fclose(fp);
 //run jgraph to generate the graph from the .jgr file
-    system("/home/jplank/bin/LINUX-X86_64/jgraph  -P jtest.jgr | ps2pdf - | convert -density 300 - -quality 100 test.jpg");
+    system("/home/jplank/bin/LINUX-X86_64/jgraph  -P jtest.jgr | ps2pdf - | convert -density 300 - -quality 100 golf_stats.jpg");
 
     return 0;
 }
+
