@@ -1,0 +1,119 @@
+Bryson DeChambeau	5.328
+Matthew Wolff		3.177
+Lee Westwood		3.371
+Zach Johnson		-1.008
+Shugo Imahira		-4.813
+
+Bryson DeChambeau	7.551
+Matthew Wolff		7.115
+Lee Westwood		1.847
+Zach Johnson		0.532
+Shugo Imahira		3.441
+
+Bryson DeChambeau	4.973
+Matthew Wolff		3.480
+Lee Westwood		2.646
+Zach Johnson		1.207
+Shugo Imahira		-1.995
+
+Bryson DeChambeau    4.492
+Matthew Wolff        2.572
+Lee Westwood         1.480
+Zach Johnson         9.613
+Shugo Imahira       -5.289
+
+Rory Mcllroy	5.819
+Bubba Watson		4.462
+Taylor Pendrith		4.282
+Jon Rahm		3.983
+Paul Casey		2.599
+
+Rory Mcllroy	.029
+Bubba Watson		6.208
+Taylor Pendrith		-1.591
+Jon Rahm		2.422
+Paul Casey		4.678
+
+Rory Mcllroy	1.503
+Bubba Watson		.250
+Taylor Pendrith		2.442
+Jon Rahm		-1.081
+Paul Casey		.930
+
+Rory Mcllroy	2.993
+Bubba Watson		-6.576
+Taylor Pendrith		1.211
+Jon Rahm		1.020
+Paul Casey		.137
+
+Lucas Glover	1.848
+Dustin Johnson		1.815
+Adam Scott		1.392
+Adam Long		1.213
+John Pak		1.099
+
+Lucas Glover	2.002
+Dustin Johnson		7.331
+Adam Scott		-1.203
+Adam Long		.560
+John Pak		1.244
+
+Lucas Glover	-2.557
+Dustin Johnson		1.810
+Adam Scott		-1.088
+Adam Long		3.540
+John Pak		-.274
+
+Lucas Glover	7.051
+Dustin Johnson		.388
+Adam Scott		3.243
+Adam Long		4.031
+John Pak		-3.725
+
+Webb Simpson	.507
+Jason Day		.383
+Matt Wallace		.326
+Brian Harman		-.833
+Brendon Todd		-1.224
+
+Webb Simpson	-2.099
+Jason Day		-5.171
+Matt Wallace		4.400
+Brian Harman		-2.913
+Brendon Todd		1.691
+
+Webb Simpson	4.641
+Jason Day		1.560
+Matt Wallace		-2.382
+Brian Harman		3.430
+Brendon Todd		-.570
+
+Webb Simpson	7.295
+Jason Day		5.572
+Matt Wallace		-1.000
+Brian Harman		2.660
+Brendon Todd		6.447
+
+J Plank	    2.000
+B Bunny		2.527
+Larry Bird		4.568
+Michael Jordan		-3.227
+Bill Murray		-6.657
+
+J Plank	    5.328
+B Bunny		1.577
+Larry Bird		-3.371
+Michael Jordan		-1.008
+Bill Murray		-4.813
+
+J Plank	    1.361
+B Bunny		3.117
+Larry Bird		3.371
+Michael Jordan		-1.008
+Bill Murray		-4.813
+
+J Plank	    -9.420
+B Bunny		3.177
+Larry Bird		2.371
+Michael Jordan		3.008
+Bill Murray		-1.813
