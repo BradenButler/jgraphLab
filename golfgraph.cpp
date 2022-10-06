@@ -1,3 +1,8 @@
+//Braden Butler
+//COSC 494
+//golfgraph.cpp
+//program to create .jgr file for Jgraph lab
+//takes .txt file as input
 #include <iostream>
 #include <stdlib.h>
 #include <stdio.h>
